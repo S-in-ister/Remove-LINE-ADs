@@ -16,8 +16,7 @@ http:
       ^https:\/\/a\.line\.me\/cs\/v\d\/oa$ - reject-200
     - >-
       ^https:\/\/gw\.line\.naver\.jp\/ext\/lgfp\/lad\/v1$ - reject
-    - >-
-      ^https:\/\/gw\.line\.naver\.jp\/ext\/smartch\/banner\/sch\/v\d$ - reject
+
 
 
 
