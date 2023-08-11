@@ -20,8 +20,8 @@ http:
       ^https:\/\/gw\.line\.naver\.jp\/ext\/smartch\/banner\/sch\/v\d$ - reject
     - >-
       ^https:\/\/gw\.line\.naver\.jp\/lass\/api\/v1\/ads$ - reject
-    - >-
-      ^https:\/\/gw\.line\.naver\.jp\/tr\/event$ - reject
+
+
     - >-
       ^https:\/\/w\.line\.me\/adp\/api\/ad\/v\d\/ - reject-200
     - >-
