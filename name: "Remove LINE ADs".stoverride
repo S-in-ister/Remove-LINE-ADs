@@ -14,8 +14,8 @@ http:
       ^https:\/\/a\.line\.me\/oa\/v\d\/e$ - reject-200
     - >-
       ^https:\/\/a\.line\.me\/cs\/v\d\/oa$ - reject-200
-    - >-
-      ^https:\/\/gw\.line\.naver\.jp\/ext\/lgfp\/lad\/v1$ - reject
+
+
 
 
 
