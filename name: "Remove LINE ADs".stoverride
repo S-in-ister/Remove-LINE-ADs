@@ -18,8 +18,8 @@ http:
       ^https:\/\/gw\.line\.naver\.jp\/ext\/lgfp\/lad\/v1$ - reject
     - >-
       ^https:\/\/gw\.line\.naver\.jp\/ext\/smartch\/banner\/sch\/v\d$ - reject
-    - >-
-      ^https:\/\/gw\.line\.naver\.jp\/lass\/api\/v1\/ads$ - reject
+
+
 
 
     - >-
